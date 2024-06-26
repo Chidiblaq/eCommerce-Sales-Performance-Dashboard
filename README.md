@@ -1,7 +1,14 @@
 # eCommerce Sales Performance Dashboard
 
+![Sales-Page](images/SalesPage.png)
+
+![Profit-Page](images/ProfitPage.png)
+
+![Quantity-Page](images/QuantityPage.png)
+
 ## Overview  
-This project analyzes the sales KPI performance for a US-based eCommerce company. The goal is to create a comprehensive sales performance dashboard displaying Year-to-Date (YTD) Sales, YTD Profit, YTD Quantity (sold units), and the YTD Profit Margin. The project also generates insights into various sales scenarios using different visualizations.
+This project analyzes the sales KPI performance for a US-based eCommerce company. The goal is to create a comprehensive sales performance dashboard displaying Year-to-Date (YTD) Sales, YTD Profit, YTD Quantity (sold units), and the YTD Profit Margin. The project also generates insights into various sales scenarios using different visualizations.  
+This is the link to interact and navigate the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTllMzk5ZDQtZDJjOS00MTVjLWFjYmMtYmQxZDM0ZTVjN2JmIiwidCI6ImQwZWYwYjU4LWQ0YTItNGJjZS1iMDFiLTQxZWQ0ZGMyZjU3ZSJ9)
 
 ## Business Case  
 In today's competitive eCommerce landscape, it is crucial for businesses to have a clear understanding of their sales performance to make informed strategic decisions. The eCommerce company in this project needs to:  
