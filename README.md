@@ -6,6 +6,24 @@
 
 ![Quantity-Page](images/QuantityPage.png)
 
+# Table of contents
+- [Overview](#Overview)
+- [Business Case](#Business-Case)
+- [Problem Statement](#Problem-Statement)
+- [Project Structure](#Project-Structure)
+  - [Data Collection and Preparation](#Data-Collection-and-Preparation)
+  - [Data Modeling](#Data-Modeling)
+  - [DAX Functions](#DAX-Functions)
+  - [Visualizations](#Visualizations)
+- [Tools Used](#Tools-Used)
+- [Process](#Process)
+- [Insights Generated](#Insights-Generated)
+- [Conclusion](#Conclusion)
+- [Getting Started](#Getting-Started)
+  - [Prerequisites](#Prerequisites)
+  - [Installation](#Installation)
+  - [Usage](#Usage)
+
 ## Overview  
 This project analyzes the sales KPI performance for a US-based eCommerce company. The goal is to create a comprehensive sales performance dashboard displaying Year-to-Date (YTD) Sales, YTD Profit, YTD Quantity (sold units), and the YTD Profit Margin. The project also generates insights into various sales scenarios using different visualizations.  
 This is the link to interact and navigate the [dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTllMzk5ZDQtZDJjOS00MTVjLWFjYmMtYmQxZDM0ZTVjN2JmIiwidCI6ImQwZWYwYjU4LWQ0YTItNGJjZS1iMDFiLTQxZWQ0ZGMyZjU3ZSJ9)
